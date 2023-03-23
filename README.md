@@ -11,6 +11,9 @@
 - 💬 Ask me about: anything, it's nice to connect 💘
 - 📫 How to reach me: https://willtonkin.com
 
+## GitHub
+
+![](https://github-readme-stats.vercel.app/api?username=willtonkin&count_private=true&show_icons=true&theme=transparent)
 
 ## Kaggle
 
