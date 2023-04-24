@@ -4,8 +4,12 @@
 **willtonkin/willtonkin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently working on: an interesting data project 🤫👨‍💻
-- 🌱 I’m currently learning: [Fast.ai \ Practical Deep Learning for Coders](https://course.fast.ai/)
+- 🔭 I’m currently working on:
+  - an interesting data project 🤫👨‍💻
+  - [My Kaggle reputation](https://www.kaggle.com/willtonkin/)
+- 🌱 I’m currently learning:
+  - [Fast.ai \ Practical Deep Learning for Coders](https://course.fast.ai/)
+  - [RYA Day Skipper Sailing](https://www.rya.org.uk/training/courses/Day-Skipper-Practical-Sailing-Course-DSS)
 - 👯 I’m looking to collaborate on: OSS, AI/ML projects, Kaggle Competiton Teams!
 - 🤔 I’m looking for help with: ...
 - 💬 Ask me about: anything, it's nice to connect 💘
