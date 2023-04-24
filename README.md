@@ -13,7 +13,8 @@
 - 👯 I’m looking to collaborate on: OSS, AI/ML projects, Kaggle Competiton Teams!
 - 🤔 I’m looking for help with: ...
 - 💬 Ask me about: anything, it's nice to connect 💘
-- 📫 How to reach me: https://willtonkin.com
+- 📫 How to reach me:
+  - https://willtonkin.com
 
 ## GitHub
 
