@@ -33,9 +33,15 @@ A few teams I've worked with:
 ## Open Source
 
 - Codeberg Activity Graph: [codeberg-activity-graph](https://github.com/willtonkin/codeberg-activity-graph)
-- Sailties Activity Graph: [sailties-activity-graph](https://github.com/willtonkin/sailties-activity-graph)
-- Contributions: coming soon
+- Sailties Activity Graph: coming soon
+- [Free Your Tech](https://freeyourtech.org/)
 
-## Activity
+## Closed Source
+
+- [Hejmio](https://www.hejmio.dk/)
+- ... and other closed-source projects.
+
+## Codeberg Activity
 
 ![Codeberg Activity](https://codeberg-activity-graph.vercel.app/activity?user=willtonkin&theme=codeberg)
+[willtonkin on Codeberg](https://codeberg.org/willtonkin)
